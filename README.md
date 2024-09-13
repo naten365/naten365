@@ -9,6 +9,7 @@ Tecnologías y Herramientas:
 🎨 Tailwind CSS | Bootstrap
 💻 PHP
 
+ <br>
 Siempre estoy en busca de nuevas oportunidades para aprender y contribuir con soluciones innovadoras. 🚀 <br><br>
 
 Habilidades Clave:
