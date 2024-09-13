@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/b506149f-e88f-40cc-a017-aa54aa4dafc0" width="2000" height="370" /> <br>
 
-💫 Sobre Mi : 👋 <h1>¡Hola, soy Natanael Pérez Meran!</h1>
+💫 Sobre Mi :  <h1>👋 ¡Hola, soy Natanael Pérez Meran!</h1>
 
 👨‍💻 Soy un apasionado programador con experiencia en Front-end y Diseño Móvil. Me especializo en crear interfaces atractivas y funcionales utilizando tecnologías  modernas.  Mi objetivo es transformar ideas en experiencias digitales excepcionales. <br>
 
