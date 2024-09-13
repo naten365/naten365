@@ -1,4 +1,4 @@
-![git-github](https://github.com/user-attachments/assets/b506149f-e88f-40cc-a017-aa54aa4dafc0)
+<img src="https://github.com/user-attachments/assets/b506149f-e88f-40cc-a017-aa54aa4dafc0" width="300" />
 
 💫 Sobre Mi : 👋 ¡Hola, soy Natanael Pérez Meran!
 
