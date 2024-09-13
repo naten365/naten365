@@ -1,5 +1,21 @@
-#💫 About Me:
-👋 ¡Hola, soy Natanael Perez Meran!<br>👨‍💻 Programador apasionado con experiencia en Front-end y Diseño Móvil. Me encanta construir interfaces atractivas y funcionales, utilizando tecnologías modernas como:<br><br>🌐 HTML5 | CSS3 | JavaScript<br>⚛️ React<br>🎨 Tailwind CSS | Bootstrap<br>💻 PHP<br>Siempre estoy en busca de nuevas oportunidades para crecer, aprender y contribuir con soluciones creativas. 🚀<br><br>💡 Habilidades Clave:<br><br>Diseño de interfaces responsive 🌍📱<br>Desarrollo de aplicaciones web dinámicas 🖥️<br>Creación de experiencias móviles intuitivas 📱<br>¡No dudes en contactarme para colaborar en proyectos interesantes o simplemente charlar sobre tecnología! 🚀<br><br>
+#💫 About Me: 👋 ¡Hola, soy Natanael Pérez Meran!
+
+👨‍💻 Soy un apasionado programador con experiencia en Front-end y Diseño Móvil. Me especializo en crear interfaces atractivas y funcionales utilizando tecnologías modernas. Mi objetivo es transformar ideas en experiencias digitales excepcionales.
+Tecnologías y Herramientas:
+
+🌐 HTML5 | CSS3 | JavaScript
+⚛️ React
+🎨 Tailwind CSS | Bootstrap
+💻 PHP
+
+Siempre estoy en busca de nuevas oportunidades para aprender y contribuir con soluciones innovadoras. 🚀
+Habilidades Clave:
+
+    Diseño de Interfaces Responsive 🌍📱
+    Desarrollo de Aplicaciones Web Dinámicas 🖥️
+    Creación de Experiencias Móviles Intuitivas 📱
+
+¡No dudes en contactarme para colaborar en proyectos interesantes o simplemente para conversar sobre tecnología! 🚀<br><br>
 
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/7a4ac02a-1bfd-402e-81e5-c96b5dfbdd15)
 
