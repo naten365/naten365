@@ -1,4 +1,4 @@
-#💫 About Me: 👋 ¡Hola, soy Natanael Pérez Meran!
+#💫 Sobre Mi: 👋 ¡Hola, soy Natanael Pérez Meran!
 
 👨‍💻 Soy un apasionado programador con experiencia en Front-end y Diseño Móvil. Me especializo en crear interfaces atractivas y funcionales utilizando tecnologías  modernas.  Mi objetivo es transformar ideas en experiencias digitales excepcionales. <br>
 
