@@ -4,9 +4,9 @@
 
 Tecnologías y Herramientas:
 
-🌐 HTML5 | CSS3 | JavaScript
-⚛️ React
-🎨 Tailwind CSS | Bootstrap
+🌐 HTML5 | CSS3 | JavaScript <br>
+⚛️ React<br>
+🎨 Tailwind CSS | Bootstrap<br>
 💻 PHP
 
  <br>
