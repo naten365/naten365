@@ -22,10 +22,28 @@ Habilidades Clave:
 
 ¡No dudes en contactarme para colaborar en proyectos interesantes o simplemente para conversar sobre tecnología! 🚀<br><br>
 
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/7a4ac02a-1bfd-402e-81e5-c96b5dfbdd15) <br>
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/7a4ac02a-1bfd-402e-81e5-c96b5dfbdd15) <br><br>
 
 
 ## 🌐 Socials:
+
+<a href="https://www.linkedin.com/in/tu_usuario" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" width="120" />
+</a>
+
+
+<a href="https://twitter.com/tu_usuario" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" width="85" />
+</a>
+
+
+<a href="https://www.instagram.com/tu_usuario" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" width="120" />
+</a>
+
+<a href="https://github.com/tu_usuario" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" width="120" />
+</a>
 
 
 # 💻 Tech Stack:
