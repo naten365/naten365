@@ -91,7 +91,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/album/1bwbZJ6khPJyVpOaqgKsoZ)
 
 ---
 
