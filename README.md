@@ -25,7 +25,7 @@ Habilidades Clave:
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/7a4ac02a-1bfd-402e-81e5-c96b5dfbdd15) <br><br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 
 <a href="https://www.linkedin.com/in/tu_usuario" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" width="120" />
